@@ -1,0 +1,33 @@
+.btn{
+    border-radius: 100px;
+    background-color: #e7e7e7;
+    color: black;
+    transition-duration: 0.4s;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0);
+}
+
+.btn:hover{
+    background-color: black; 
+    color: white; 
+}
+
+.display-4{
+    margin-top: 15px;
+}
+
+.card{
+   box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.2);
+  
+}
+
+.card-header{
+    background-color: #1a1a1a;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+}
+
+h3{
+    margin-top: 100px;
+}
